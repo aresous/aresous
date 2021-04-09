@@ -1,8 +1,8 @@
 - 👋 Hi
-- 👀 I’m interested in cake
-- 🌱 I’m currently learning cake
-- 💞️ I’m looking to collaborate on cake
-- 📫 How to reach me cake
+- 👀 I’m interested in fullstack web dev
+- 🌱 I’m currently learning js / html / css 
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me : ???
 
 <!---
 aresous/aresous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
