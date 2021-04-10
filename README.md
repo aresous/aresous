@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : ???
 
-[![aresous's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresous?theme=highcontrast)](https://github.com/aresous/github-readme-stats?theme=highcontrast)
+[![aresous's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresous&theme=radical)](https://github.com/aresous/github-readme-stats)
 
 
 <!---
