@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 - 👋 Hi
 - 👀 I’m interested in fullstack web dev
-- 🌱 I’m currently learning js / html / css 
+- 📚 I’m currently learning js / html / css 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : ???
 
