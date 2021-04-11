@@ -1,10 +1,11 @@
 
 ![Javascript](https://img.shields.io/badge/-javascript-000?&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+
 - 👋 Hi
 - 👀 I’m interested in fullstack web dev
 - 📚 I’m currently learning js / html / css 
