@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 - 👋 Hi
-- 👀 I’m interested in fullstack web dev
+- 👀 Aspiring fullstack web dev
 - 📚 I’m currently learning js / html / css / react
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : aresous@gmail.com
