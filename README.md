@@ -10,7 +10,7 @@
 - 👀 I’m interested in fullstack web dev
 - 📚 I’m currently learning js / html / css / react
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me : ???
+- 📫 How to reach me : aresous@gmail.com
 
 [![aresous's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresous&theme=onedark)](https://github.com/aresous/github-readme-stats)
 
